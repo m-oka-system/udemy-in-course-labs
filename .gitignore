@@ -1,0 +1,46 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Terraform ファイル
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+tfplan.binary
+tfplan.json
+plan.out
+plan.json
+plan.log
+
+# 変数ファイル
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI設定ファイル
+.terraformrc
+terraform.rc
+
+# ログファイル
+*.log
+
+# 環境変数
+.env
+.env.*
+.secrets
+
+# バックアップファイル
+*.backup
+*.bak
+
+# Claude Code
+.claude/
+claudedocs/
+CLAUDE.md
+AGENTS.md
