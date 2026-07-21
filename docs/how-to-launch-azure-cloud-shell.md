@@ -7,8 +7,8 @@
    - ストレージアカウントは不要です (既定値)
    - プルダウンからサブスクリプションを選択
 
-   <img width="798" height="277" alt="Image" src="https://github.com/user-attachments/assets/07dfb127-c299-4ded-80ad-65521aad5bca" />
+   ![Azure Cloud Shell1](https://i.gyazo.com/9d451ec7f7cb3ee4db3675b4a06c6dde.png)
 
 4. ターミナル画面が起動することを確認します。
 
-   <img width="1158" height="272" alt="Image" src="https://github.com/user-attachments/assets/6f7b86ab-3c2b-40ef-bb78-6b9c8f8170c3" />
+   ![Azure Cloud Shell2](https://i.gyazo.com/f8af65a82bcb762f6a1aa195ce57d7f7.jpg)

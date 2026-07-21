@@ -27,7 +27,7 @@ curl -fsSL https://raw.githubusercontent.com/m-oka-system/udemy-in-course-labs/r
 
 3. `Apply complete!` と表示されたら作成完了です。Azure Cloud Shell を閉じて、次の手順に進んでください。
 
-   <img width="1378" height="248" alt="Image" src="https://github.com/user-attachments/assets/b40869cc-7331-405c-8ac3-63a94c0c6051" />
+   ![Applye Complete](https://i.gyazo.com/7fa862b8c55d99914b591660b777f82a.png)
 
 ### Azure Load Balancer の作成
 
